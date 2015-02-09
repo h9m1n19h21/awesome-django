@@ -104,4 +104,4 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 # Contributing
 
-Just fork and send a pull request with your awesome django apps and projects
+Just fork and send a pull request with your awesome django apps and project
